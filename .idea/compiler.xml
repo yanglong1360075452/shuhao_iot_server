@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="shuhao-app-api" />
+        <module name="shuhao-common" />
+        <module name="shuhao-data-service" />
+        <module name="shuhao-data-serviceImpl" />
+        <module name="shuhao-device-service" />
+        <module name="shuhao-device-serviceImpl" />
+        <module name="shuhao-manage" />
+        <module name="shuhao-server" />
+        <module name="shuhao-share-service" />
+        <module name="shuhao-share-serviceImpl" />
+        <module name="shuhao-user-service" />
+        <module name="shuhao-user-serviceImpl" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="shuhao-app-api" target="1.7" />
+      <module name="shuhao-common" target="1.7" />
+      <module name="shuhao-data-service" target="1.7" />
+      <module name="shuhao-data-serviceImpl" target="1.7" />
+      <module name="shuhao-device-service" target="1.7" />
+      <module name="shuhao-device-serviceImpl" target="1.7" />
+      <module name="shuhao-manage" target="1.7" />
+      <module name="shuhao-server" target="1.7" />
+      <module name="shuhao-share-service" target="1.7" />
+      <module name="shuhao-share-serviceImpl" target="1.7" />
+      <module name="shuhao-user-service" target="1.7" />
+      <module name="shuhao-user-serviceImpl" target="1.7" />
+      <module name="shuhao_iot_server" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

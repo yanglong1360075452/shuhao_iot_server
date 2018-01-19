@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shuhao-app-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shuhao-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shuhao-data-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shuhao-data-serviceImpl" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shuhao-device-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shuhao-device-serviceImpl" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shuhao-manage" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shuhao-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shuhao-share-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shuhao-share-serviceImpl" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shuhao-user-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shuhao-user-serviceImpl" charset="UTF-8" />
+  </component>
+</project>

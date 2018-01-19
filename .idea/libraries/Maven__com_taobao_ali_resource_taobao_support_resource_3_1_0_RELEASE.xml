@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.taobao.ali.resource:taobao.support.resource:3.1.0.RELEASE">
+    <CLASSES>
+      <root url="jar://D:/javasoftware/downloads/apache-maven-3.3.9/repository/com/taobao/ali/resource/taobao.support.resource/3.1.0.RELEASE/taobao.support.resource-3.1.0.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/javasoftware/downloads/apache-maven-3.3.9/repository/com/taobao/ali/resource/taobao.support.resource/3.1.0.RELEASE/taobao.support.resource-3.1.0.RELEASE-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/javasoftware/downloads/apache-maven-3.3.9/repository/com/taobao/ali/resource/taobao.support.resource/3.1.0.RELEASE/taobao.support.resource-3.1.0.RELEASE-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

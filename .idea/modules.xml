@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/shuhao-app-api/shuhao-app-api.iml" filepath="$PROJECT_DIR$/shuhao-app-api/shuhao-app-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shuhao-common/shuhao-common.iml" filepath="$PROJECT_DIR$/shuhao-common/shuhao-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shuhao-data-service/shuhao-data-service.iml" filepath="$PROJECT_DIR$/shuhao-data-service/shuhao-data-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shuhao-data-serviceImpl/shuhao-data-serviceImpl.iml" filepath="$PROJECT_DIR$/shuhao-data-serviceImpl/shuhao-data-serviceImpl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shuhao-device-service/shuhao-device-service.iml" filepath="$PROJECT_DIR$/shuhao-device-service/shuhao-device-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shuhao-device-serviceImpl/shuhao-device-serviceImpl.iml" filepath="$PROJECT_DIR$/shuhao-device-serviceImpl/shuhao-device-serviceImpl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shuhao-manage/shuhao-manage.iml" filepath="$PROJECT_DIR$/shuhao-manage/shuhao-manage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shuhao-server/shuhao-server.iml" filepath="$PROJECT_DIR$/shuhao-server/shuhao-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shuhao-share-service/shuhao-share-service.iml" filepath="$PROJECT_DIR$/shuhao-share-service/shuhao-share-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shuhao-share-serviceImpl/shuhao-share-serviceImpl.iml" filepath="$PROJECT_DIR$/shuhao-share-serviceImpl/shuhao-share-serviceImpl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shuhao-user-service/shuhao-user-service.iml" filepath="$PROJECT_DIR$/shuhao-user-service/shuhao-user-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shuhao-user-serviceImpl/shuhao-user-serviceImpl.iml" filepath="$PROJECT_DIR$/shuhao-user-serviceImpl/shuhao-user-serviceImpl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shuhao_iot_server.iml" filepath="$PROJECT_DIR$/shuhao_iot_server.iml" />
+    </modules>
+  </component>
+</project>
